@@ -1,4 +1,6 @@
 #!/bin/bash
+# This is the installer for szhu/install-standalone-xcode-tools. For more info:
+#   https://github.com/szhu/install-standalone-xcode-tools
 set -e
 
 # Echo only if $VERBOSE
